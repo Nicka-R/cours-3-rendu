@@ -1,5 +1,10 @@
 # TP Automatisation du developpement - Test - Rendu 3
 
+## Groupe 
+- Nicka Ratovobodo
+- Dimitri Walczak-Vela-Mena
+
+## Description
 Mini projet pour le rendu numéro 3 du cours d'automatisation du développement sur les tests.
 
 Ce projet contient seulement 3 classes qui intéragissent entre elle :
